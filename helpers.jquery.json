@@ -9,7 +9,7 @@
         "methods",
         "expressions"
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Yannick Albert",
         "email": "mail@yckart.com",
@@ -19,10 +19,10 @@
         "type": "MIT",
         "url": "http://yckart.com/mit/"
     }],
-    "homepage": "http://yckart.github.com/jQuery-Helpers.js",
-    "demo": "http://yckart.github.com/jQuery-Helpers.js",
-    "docs": "https://github.com/yckart/jQuery-Helpers.js",
-    "bugs": "https://github.com/yckart/jQuery-Helpers.js/issues",
+    "homepage": "http://yckart.github.com/jQuery-Helpers",
+    "demo": "http://yckart.github.com/jQuery-Helpers",
+    "docs": "https://github.com/yckart/jQuery-Helpers",
+    "bugs": "https://github.com/yckart/jQuery-Helpers/issues",
     "dependencies": {
         "jquery": ">=1.4"
     }
