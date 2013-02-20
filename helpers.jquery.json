@@ -1,0 +1,29 @@
+{
+    "name": "helpers",
+    "title": "jQuery Helpers",
+    "description": "A handful of useful helper methods, utilities and expressions that makes your development with jQuery easier.",
+    "keywords": [
+        "helper",
+        "helpers",
+        "utilities",
+        "methods",
+        "expressions"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Yannick Albert",
+        "email": "mail@yckart.com",
+        "url": "https://github.com/yckart"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://yckart.com/mit/"
+    }],
+    "homepage": "http://yckart.github.com/jQuery-Helpers.js",
+    "demo": "http://yckart.github.com/jQuery-Helpers.js",
+    "docs": "https://github.com/yckart/jQuery-Helpers.js",
+    "bugs": "https://github.com/yckart/jQuery-Helpers.js/issues",
+    "dependencies": {
+        "jquery": ">=1.4"
+    }
+}
